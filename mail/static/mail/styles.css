@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.table-hover tbody tr:hover td {
+    background: rgb(235, 235, 235);
+}
+
+.readed {
+    background-color: rgb(243, 243, 243);
+}
+
+.unreaded {
+    background-color: rgb(255, 255, 255);
+}
